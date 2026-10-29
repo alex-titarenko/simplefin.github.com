@@ -111,6 +111,11 @@ To add to this list, <a href="https://github.com/simplefin/simplefin.github.com/
   <div class="item-desc">Bank, brokerage, and crypto sync for Europe and New Zealand via the SimpleFIN protocol.</div>
 </a>
 
+<a class="item" href="https://totalfigures.app" target="_blank">
+  <div class="item-title"><img src="/img/applogos/totalfigures.png" title="TotalFigures logo"> TotalFigures</div>
+  <div class="item-desc">Privacy-focused net worth and personal finance tracking app</div>
+</a>
+
 </div>
 
 <script>
